@@ -8,4 +8,11 @@ user_from_id,user_to_id,is_like,is_match
 8,1122,False,False
 883,437,True,False
 883,437,False,False
-883,437,False,False
+1,2,True,False
+883,23,True,False
+883,32,False,False
+1,3,True,False
+1,4,True,False
+1,5,True,False
+1,6,True,False
+1,7,True,False
