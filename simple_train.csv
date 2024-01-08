@@ -7,3 +7,5 @@ user_from_id,user_to_id,is_like,is_match
 311,625,False,False
 8,1122,False,False
 883,437,True,False
+883,437,False,False
+883,437,False,False
