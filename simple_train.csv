@@ -1,7 +1,7 @@
 user_from_id,user_to_id,is_like,is_match
-1136,3141,False,False
-2424,3174,False,False
-1300,3590,False,False
+1136,3141,True,False
+1136,3174,False,False
+1136,3590,False,False
 800,2736,False,False
 883,437,True,False
 311,625,False,False
@@ -15,4 +15,8 @@ user_from_id,user_to_id,is_like,is_match
 1,4,True,False
 1,5,True,False
 1,6,True,False
-1,7,True,False
+1,6,True,False
+311,53243,False,False
+311,23,False,False
+311,543,False,False
+311,345325,False,False
